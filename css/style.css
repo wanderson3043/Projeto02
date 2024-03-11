@@ -1,0 +1,40 @@
+body {
+    background-color: rgb(99, 99, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.principal {
+    background-color: white;
+    height: 100px;
+    border-radius: 6px;
+}
+
+a {
+    color: white;
+}
+
+.logo {
+    width: 176px;
+    height: 96px;
+    border-radius: 10px;
+}
+
+p {
+    color: black;
+    font-size: medium;
+}
+
+.nuvem-abstrata {
+    width: 50%;
+    height: 50%;
+    display: block;
+    margin: 0px auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+footer {
+    background-color: white;
+}
